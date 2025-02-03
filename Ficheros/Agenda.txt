@@ -1,0 +1,4 @@
+Beatriz;Viejo;Domínguez;916167864;beatrizvd6@gmail.com
+Javier;Real;Galende;657398332;jreal@fake.com
+Juan;Perez;Salas;123456789;jps@nada.com
+pepe;pepito;pepon;123456798;pepe@nada.com

@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal{
+    width: 25%;
+}
+.menu{
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    color: rgb(137, 8, 109);
+}
+.btn{
+    background-color:rgb(208, 17, 141) !important;
+    color: white !important;
+}
+.btn:hover{
+    background-color: rgb(137, 8, 109) !important;
+    color: white !important;
+}
+th{
+    color: rgb(137, 8, 109);
+    padding: 5px;
+    min-width: 150px;
+    border-bottom: 2px solid rgb(137, 8, 109) !important;
+}
+.vuelta{
+    display: flex;
+    justify-content: center;
+}
